@@ -1,8 +1,10 @@
 # OpenHeat：开源智能加热台
-*基于[peng-zhihui](https://github.com/peng-zhihui)的[OpenHeat](https://github.com/peng-zhihui/OpenHeat)， 调整了元器件的封装，方便手工焊接
-*项目设计使用KiCAD软件
-*固件不完全兼容（未完成）
-注意： PCBA测试中
+* 基于[peng-zhihui](https://github.com/peng-zhihui)的[OpenHeat](https://github.com/peng-zhihui/OpenHeat)， 调整了元器件的封装，方便手工焊接
+* 项目设计使用KiCAD软件
+* 固件不完全兼容（未完成）
+* 注意： PCBA测试中
+![](3.Docs/1.Images/easyBuild_3D_1.png)
+![](3.Docs/1.Images/easyBuild_3D_2.png)
 ---------------------------------------------------------------------------
 
 > 用于PCB回流焊的实用加热台，比较炫酷，可能目前市面上 **颜值最高** & **功能最强** 的加热台。
