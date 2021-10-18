@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1402
+D 0.5A High speed power MOSFET driver with non-inverting output, SOT-23-5
+K mosfet gate driver
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20002052D.pdf
+$ENDCMP
+#
+$CMP VXO78XX
+D 500mA, non-isolated regulator module
+F https://www.mouser.de/datasheet/2/670/vxo78_500_m-1729064.pdf
+$ENDCMP
+#
+#End Doc Library

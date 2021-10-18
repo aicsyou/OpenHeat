@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name OpenHeat)(type Legacy)(uri ${KIPRJMOD}/OpenHeat.lib)(options "")(descr ""))
+)
